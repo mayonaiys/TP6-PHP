@@ -1,3 +1,8 @@
+<h1>POO</h1>
+
+<hr>
+<h2>Exercice 1</h2>
+
 <?php
 //Partie 1 :
 /*class FootballTeam {
