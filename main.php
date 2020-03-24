@@ -115,3 +115,10 @@ echo '<br>';
 FootballTeam::displayNbrTeams();
 echo '<br>';
 ?>
+
+<hr>
+<h2>Exercice 1 :</h2>
+
+<?php
+
+//Exercice 2:
