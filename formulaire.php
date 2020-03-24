@@ -14,9 +14,10 @@ class Formulaire{
         echo '<input type="submit" value="Envoi"/>';
     }
     function getform() {
-        $form = new Formulaire("formulaire.php","post");
-        $form->ajouterBouton();
-        $form->ajouterZoneTexte("testTexte");
         echo '</form>';
     }
 }
+
+$form = new Formulaire("formulaire.php","post");
+$form->ajouterBouton();
+$form->ajouterZoneTexte("testTexte");
